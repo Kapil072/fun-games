@@ -28,7 +28,7 @@ A collection of entertaining mini-games built with React, TypeScript, and Vite. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fun-games.git
+   git clone https://github.com/kapil072/fun-games.git
    cd fun-games
    ```
 
@@ -55,7 +55,7 @@ The built files will be in the `dist` folder.
 
 ## 🌐 Live Demo
 
-[Play the games online!](https://yourusername.github.io/fun-games/)
+[Play the games online!](https://kapil072.github.io/fun-games/)
 
 ## 🛠️ Technologies Used
 
